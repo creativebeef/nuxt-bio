@@ -3,7 +3,7 @@
         <div class="container-fluid">
             <div class="row xs-justify-center xs-items-center">
                 <div class="xl">
-                    <moso-card header-name="Morten Sørensen" header-title="Front-End Engineer" image="/images/profile.jpg">
+                    <moso-card header-name="Jamie Ashworth" header-title="Yes" image="/images/profile.jpg">
                         <moso-link v-for="link in links" :key="link.id" :icon="link.icon" :url="link.url" :text="link.text" :subtext="trimUrl(link.url)" />
                     </moso-card>
                     <div class="footer">

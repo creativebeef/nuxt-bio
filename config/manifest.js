@@ -1,7 +1,7 @@
 export default {
     lang: 'en',
-    name: 'Bio | moso.io', // Change me
-    short_name: 'Bio | moso.io', // Change me
+    name: 'mjpa.sh', // Change me
+    short_name: 'mjpa.sh', // Change me
     start_url: '/',
     display: 'standalone'
 }
